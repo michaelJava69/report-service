@@ -1,0 +1,9 @@
+.high {
+    background-color: #da4343 !important;
+    color: rgb(240, 240, 240) !important;
+}
+
+.critical {
+    background-color: #7a1010 !important;
+    color: rgb(240, 240, 240) !important;
+}
